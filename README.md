@@ -1,1 +1,2 @@
-# MathsMaster
+# NsbmMathMaster-
+NsbmMathMaster inter school competition
