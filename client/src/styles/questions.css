@@ -1,0 +1,19 @@
+
+.question-container {
+  transition: all 0.3s ease;
+}
+
+.question-container.top {
+  margin-top: 0;
+}
+
+.question-container.middle {
+  margin-top: 2rem;
+}
+
+.question-container.bottom {
+  margin-top: 4rem;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
