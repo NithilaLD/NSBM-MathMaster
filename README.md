@@ -1,2 +1,3 @@
 # NSBM MathMaster
-Nsbm MathMaster Inter School Competition
+NSBM MathMaster Inter School Competition
+Mathematics and Statistical Circle
