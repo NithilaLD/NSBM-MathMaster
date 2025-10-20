@@ -4,7 +4,7 @@
     "password": "admin123",
     "role": "admin",
     "id": 1,
-    "lastLogin": "2025-04-27T10:12:14.147Z",
+    "lastLogin": "2025-04-26T15:23:17.195Z",
     "createdAt": "2025-04-26T05:29:49.024Z",
     "school": null
   },
@@ -13,7 +13,7 @@
     "password": "superadmin123",
     "role": "superadmin",
     "id": 2,
-    "lastLogin": "2025-04-28T07:50:56.047Z",
+    "lastLogin": "2025-04-27T03:53:29.619Z",
     "createdAt": "2025-04-26T05:29:49.027Z",
     "school": null
   },
@@ -22,377 +22,44 @@
     "password": "student",
     "role": "student",
     "school": "Other",
-    "id": 28,
-    "lastLogin": "2025-04-28T06:34:02.172Z",
-    "createdAt": "2025-04-28T04:02:31.628Z"
-  },
-  {
-    "username": "prajapathibaliamahavidyalaya143",
-    "password": "PPBMVHorana#143",
-    "role": "student",
-    "school": "Prajapathi Balia Maha Vidyalaya, Horana",
-    "id": 29,
-    "lastLogin": "2025-04-28T05:39:23.551Z",
-    "createdAt": "2025-04-28T04:07:03.208Z"
-  },
-  {
-    "username": "mahindarajapakshavidyalaya020",
-    "password": "MRVHomagama#020",
-    "role": "student",
-    "school": "Mahinda Rajapaksha Vidyalaya, Homagama",
-    "id": 32,
-    "lastLogin": "2025-04-28T05:32:52.472Z",
-    "createdAt": "2025-04-28T04:09:34.983Z"
-  },
-  {
-    "username": "panaduraroyalcollege125",
-    "password": "SBCColombo#183",
-    "role": "student",
-    "school": "Panadura Royal College",
-    "id": 33,
+    "id": 3,
     "lastLogin": null,
-    "createdAt": "2025-04-28T04:17:43.683Z"
+    "createdAt": "2025-04-26T05:29:51.458Z"
   },
   {
-    "username": "stbridgetsconvent183",
-    "password": "SBCColombo#183",
-    "role": "student",
-    "school": "St. Bridget's Convent, Colombo",
-    "id": 34,
-    "lastLogin": "2025-04-28T05:39:27.152Z",
-    "createdAt": "2025-04-28T04:23:50.756Z"
-  },
-  {
-    "username": "visakhavidyalaya018",
-    "password": "VVColombo#018",
-    "role": "student",
-    "school": "Visakha Vidyalaya, Colombo",
-    "id": 35,
-    "lastLogin": "2025-04-28T05:39:08.416Z",
-    "createdAt": "2025-04-28T04:31:12.250Z"
-  },
-  {
-    "username": "ilmainternationalgirlsschool224",
-    "password": "IIGSColombo#224",
-    "role": "student",
-    "school": "Ilma International Girls' School, Colombo",
-    "id": 36,
-    "lastLogin": "2025-04-28T07:29:40.578Z",
-    "createdAt": "2025-04-28T04:31:46.055Z"
-  },
-  {
-    "username": "srisumangalacollege114",
-    "password": "SSCPanadura#114",
-    "role": "student",
-    "school": "Sri Sumangala College, Panadura",
-    "id": 37,
-    "lastLogin": "2025-04-28T05:38:06.356Z",
-    "createdAt": "2025-04-28T04:32:19.332Z"
-  },
-  {
-    "username": "dssenanayakecollege005",
-    "password": "DSSCColombo#005",
-    "role": "student",
-    "school": "D.S. Senanayake College, Colombo",
-    "id": 38,
-    "lastLogin": "2025-04-28T05:32:39.373Z",
-    "createdAt": "2025-04-28T04:33:55.681Z"
-  },
-  {
-    "username": "anandacollege002",
-    "password": "ACColombo#002",
-    "role": "student",
-    "school": "Ananda College, Colombo",
-    "id": 39,
-    "lastLogin": "2025-04-28T05:54:16.740Z",
-    "createdAt": "2025-04-28T04:34:17.241Z"
-  },
-  {
-    "username": "mahanamacollege133",
-    "password": "MCCollegePandura#133",
-    "role": "student",
-    "school": "Mahanama College, Pandura",
-    "id": 41,
-    "lastLogin": null,
-    "createdAt": "2025-04-28T04:35:20.930Z"
-  },
-  {
-    "username": "nalandacollege011",
-    "password": "NCColombo#011",
-    "role": "student",
-    "school": "Nalanda College, Colombo",
-    "id": 42,
-    "lastLogin": "2025-04-28T05:34:50.621Z",
-    "createdAt": "2025-04-28T04:35:44.578Z"
-  },
-  {
-    "username": "wewitamaithreemahavidyalaya148",
-    "password": "WMMVBandaragama#148",
-    "role": "student",
-    "school": "Wewita Maithree Maha Vidyalaya, Bandaragama",
-    "id": 43,
-    "lastLogin": "2025-04-28T05:48:41.431Z",
-    "createdAt": "2025-04-28T04:36:14.325Z"
-  },
-  {
-    "username": "siripiyarathanacentralcollege200",
-    "password": "SCCPadukka#200",
-    "role": "student",
-    "school": "Siripiyarathana Central College, Padukka, Colombo",
-    "id": 44,
-    "lastLogin": "2025-04-28T05:36:55.751Z",
-    "createdAt": "2025-04-28T04:38:26.397Z"
-  },
-  {
-    "username": "thomascatholicinternational201",
-    "password": "STCICSeeduwa#201",
-    "role": "student",
-    "school": "St Thomas Catholic International College Seeduwa",
-    "id": 45,
-    "lastLogin": "2025-04-28T05:51:52.015Z",
-    "createdAt": "2025-04-28T04:39:04.335Z"
-  },
-  {
-    "username": "daranagamamahavidyalaya097",
-    "password": "DMVSiyambalape#097",
-    "role": "student",
-    "school": "Daranagama Maha Vidyalaya, Siyambalape",
-    "id": 46,
-    "lastLogin": "2025-04-28T05:32:10.351Z",
-    "createdAt": "2025-04-28T04:41:03.125Z"
-  },
-  {
-    "username": "boysmodelcollege037",
-    "password": "BMCMalabe#037",
-    "role": "student",
-    "school": "Boys' Model College, Malabe",
-    "id": 47,
-    "lastLogin": "2025-04-28T05:32:54.611Z",
-    "createdAt": "2025-04-28T04:42:11.082Z"
-  },
-  {
-    "username": "pasyalamahavidyalaya104",
-    "password": "PMVPasyala#104",
-    "role": "student",
-    "school": "Pasyala Maha Vidyalya, Pasyala",
-    "id": 48,
-    "lastLogin": "2025-04-28T05:54:34.067Z",
-    "createdAt": "2025-04-28T04:42:41.803Z"
-  },
-  {
-    "username": "gaminimadhyamahavidyalayay145",
-    "password": "GMMVIngiriya#145",
-    "role": "student",
-    "school": "Gamini Madhya Maha Vidyalaya, Ingiriya",
-    "id": 49,
-    "lastLogin": "2025-04-28T05:50:45.039Z",
-    "createdAt": "2025-04-28T04:45:35.328Z"
-  },
-  {
-    "username": "muslimladiescollege010",
-    "password": "MLCColombo#010",
-    "role": "student",
-    "school": "Muslim Ladies College, Colombo",
-    "id": 50,
-    "lastLogin": "2025-04-28T05:37:43.815Z",
-    "createdAt": "2025-04-28T04:46:01.624Z"
-  },
-  {
-    "username": "stsebastiansbalikamahavidyalaya082",
-    "password": "SSBMVKandana#082",
-    "role": "student",
-    "school": "St. Sebastian's Balika Maha Vidyalaya, Kandana",
-    "id": 51,
-    "lastLogin": "2025-04-28T05:44:52.578Z",
-    "createdAt": "2025-04-28T04:46:29.257Z"
-  },
-  {
-    "username": "wijayaratnamhinducentralcollege078",
-    "password": "WHCCNegombo#078",
-    "role": "student",
-    "school": "Wijayaratnam Hindu Central College, Negombo",
-    "id": 52,
-    "lastLogin": "2025-04-28T07:33:03.747Z",
-    "createdAt": "2025-04-28T04:47:38.590Z"
-  },
-  {
-    "username": "sample",
-    "password": "sample",
+    "username": "dulan",
+    "password": "1234",
     "role": "student",
     "school": "Other",
-    "id": 53,
-    "lastLogin": "2025-04-28T04:52:08.985Z",
-    "createdAt": "2025-04-28T04:47:42.453Z"
+    "id": 10,
+    "lastLogin": "2025-04-26T16:40:48.186Z",
+    "createdAt": "2025-04-26T08:55:55.731Z"
   },
   {
-    "username": "bandaranayakevidyalaya022",
-    "password": "BVGampaha#022",
-    "role": "student",
-    "school": "Bandaranayake Central College, Veyangoda",
-    "id": 54,
-    "lastLogin": null,
-    "createdAt": "2025-04-28T04:57:18.319Z"
-  },
-  {
-    "username": "asianinternationalschool196",
-    "password": "AISCColombo#196",
-    "role": "student",
-    "school": "Asian International School, Colombo",
-    "id": 55,
-    "lastLogin": "2025-04-28T05:41:56.726Z",
-    "createdAt": "2025-04-28T04:58:30.804Z"
-  },
-  {
-    "username": "alasharmuslimmahavidyalaya071",
-    "password": "AAMMVThihariya#071",
-    "role": "student",
-    "school": "Al Ashar Muslim Maha Vidyalaya, Thihariya",
-    "id": 56,
-    "lastLogin": "2025-04-28T06:20:23.862Z",
-    "createdAt": "2025-04-28T04:59:37.337Z"
-  },
-  {
-    "username": "stsebastianscollege182",
-    "password": "SSCMoratuwa#182",
-    "role": "student",
-    "school": "St. Sebastian's College, Moratuwa",
-    "id": 57,
-    "lastLogin": "2025-04-28T05:45:13.976Z",
-    "createdAt": "2025-04-28T04:59:58.743Z"
-  },
-  {
-    "username": "saivamangaiyarvidyalayam203",
-    "password": "SMVColombo#203",
-    "role": "student",
-    "school": "Saiva Mangaiyar Vidyalayam, Colombo 06",
-    "id": 58,
-    "lastLogin": "2025-04-28T05:36:32.494Z",
-    "createdAt": "2025-04-28T05:00:29.184Z"
-  },
-  {
-    "username": "khairiyagirlscollege204",
-    "password": "KGCColombo#204",
-    "role": "student",
-    "school": "Khairiya Girl's College Colombo-9",
-    "id": 59,
-    "lastLogin": null,
-    "createdAt": "2025-04-28T05:00:52.343Z"
-  },
-  {
-    "username": "stjosephscollegecolombo205",
-    "password": "STJCColombo#205",
-    "role": "student",
-    "school": "St. Joseph's College, Colombo 10",
-    "id": 60,
-    "lastLogin": "2025-04-28T05:39:06.078Z",
-    "createdAt": "2025-04-28T05:01:21.358Z"
-  },
-  {
-    "username": "srignanodayamadhyamahavidyalaya106",
-    "password": "SGMMVDivulapitiya#106",
-    "role": "student",
-    "school": "Sri Gnanodaya Madhya Maha Vidyalaya, Divulapitiya",
-    "id": 61,
-    "lastLogin": "2025-04-28T05:36:25.530Z",
-    "createdAt": "2025-04-28T05:02:13.768Z"
-  },
-  {
-    "username": "hinduladiescollege166",
-    "password": "HLCColombo#166",
-    "role": "student",
-    "school": "Ramanathan Hindu Ladies College, Colombo",
-    "id": 62,
-    "lastLogin": null,
-    "createdAt": "2025-04-28T05:03:34.278Z"
-  },
-  {
-    "username": "galahitiyawacentralcollege043",
-    "password": "GCCGanemulla#043",
-    "role": "student",
-    "school": "Galahitiyawa Central College, Ganemulla",
-    "id": 63,
-    "lastLogin": "2025-04-28T07:33:03.457Z",
-    "createdAt": "2025-04-28T05:03:57.761Z"
-  },
-  {
-    "username": "thurstoncollege017",
-    "password": "TCColombo#017",
-    "role": "student",
-    "school": "Thurston College, Colombo",
-    "id": 64,
-    "lastLogin": "2025-04-28T05:33:40.942Z",
-    "createdAt": "2025-04-28T05:14:17.333Z"
-  },
-  {
-    "username": "centralcollege059",
-    "password": "CCHomagama#059",
-    "role": "student",
-    "school": "Central College Homagama",
-    "id": 65,
-    "lastLogin": null,
-    "createdAt": "2025-04-28T05:14:44.704Z"
-  },
-  {
-    "username": "bomiriyacentralcollege052",
-    "password": "BCCKaduwela#052",
-    "role": "student",
-    "school": "Bomiriya Central College, Kaduwela",
-    "id": 66,
-    "lastLogin": "2025-04-28T06:55:38.866Z",
-    "createdAt": "2025-04-28T05:16:02.503Z"
-  },
-  {
-    "username": "kirillawalamadhyamahavidyalaya100",
-    "password": "KMMVKadawatha#100",
+    "username": "user1",
+    "password": "pass1",
     "role": "student",
     "school": "Other",
-    "id": 67,
-    "lastLogin": "2025-04-28T07:31:47.196Z",
-    "createdAt": "2025-04-28T05:23:30.696Z"
+    "id": 14,
+    "lastLogin": "2025-04-27T03:19:34.790Z",
+    "createdAt": "2025-04-26T13:45:42.730Z"
   },
   {
-    "username": "princeofwalescollege027",
-    "password": "POWCMoratuwa#027",
+    "username": "student01",
+    "password": "student01",
     "role": "student",
     "school": "Other",
-    "id": 68,
-    "lastLogin": "2025-04-28T05:50:09.836Z",
-    "createdAt": "2025-04-28T05:24:10.761Z"
+    "id": 23,
+    "lastLogin": "2025-04-27T03:47:50.143Z",
+    "createdAt": "2025-04-27T03:41:16.504Z"
   },
   {
-    "username": "stannesbalikamahavidyalaya091",
-    "password": "SABMVWattala#091",
+    "username": "student1",
+    "password": "student1",
     "role": "student",
     "school": "Other",
-    "id": 69,
-    "lastLogin": "2025-04-28T05:49:00.836Z",
-    "createdAt": "2025-04-28T05:24:32.050Z"
-  },
-  {
-    "username": "sridharmalokacollege028",
-    "password": "SDC#028",
-    "role": "student",
-    "school": "Other",
-    "id": 70,
-    "lastLogin": "2025-04-28T05:48:21.600Z",
-    "createdAt": "2025-04-28T05:24:54.433Z"
-  },
-  {
-    "username": "vishakabalikamahavidyalaya093",
-    "password": "VBMVMakola#093",
-    "role": "student",
-    "school": "Other",
-    "id": 71,
-    "lastLogin": null,
-    "createdAt": "2025-04-28T05:25:19.432Z"
-  },
-  {
-    "username": "agamathibalikavidyalaya126",
-    "password": "ABVPanadura#126",
-    "role": "student",
-    "school": "Pandura Balika Maha Vidyalaya, Pandura",
-    "id": 72,
-    "lastLogin": "2025-04-28T05:46:28.692Z",
-    "createdAt": "2025-04-28T05:38:16.236Z"
+    "id": 24,
+    "lastLogin": "2025-04-27T03:53:05.340Z",
+    "createdAt": "2025-04-27T03:51:32.691Z"
   }
 ]
